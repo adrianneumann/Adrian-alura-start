@@ -1,5 +1,9 @@
-meu nome é Adrian Neumann 
-estou estudando na alura
-estou me desenvolvendo na linguagem Java script 
+Boas vindas ao meu perfil 💙💙
+Meu nome é nome sobrenome
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-![](link)
+
+Você pode entrar em contato comigo 📫
+adrianneumann26@escola.pr.gov.br 
